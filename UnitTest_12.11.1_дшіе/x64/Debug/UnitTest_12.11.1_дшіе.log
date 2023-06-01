@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_12.11.1_дшіе.cpp
+     Creating library D:\AP\Labs\Lab_12\Lab_12.11.1_list\x64\Debug\UnitTest_12.11.1_дшіе.lib and object D:\AP\Labs\Lab_12\Lab_12.11.1_list\x64\Debug\UnitTest_12.11.1_дшіе.exp
+LINK : warning LNK4232: name UnitTest_12.11.1_дшіе.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest_12.11.1_дшіе.vcxproj -> D:\AP\Labs\Lab_12\Lab_12.11.1_list\x64\Debug\UnitTest_12.11.1_дшіе.dll
